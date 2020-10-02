@@ -1,2 +1,4 @@
 Metasploit Framework For Termux Android Application
-chmod 777 this file and run!
+chmod +x metasploit-installer.sh 
+./metasploit-installer.sh or bash metasploit-installer.sh
+this file and run!
